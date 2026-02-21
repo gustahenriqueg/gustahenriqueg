@@ -13,7 +13,6 @@
 - 🚀 Especialista em **AWS, GCP e Azure**, com foco profundo na gestão de clusters **AKS e GKE**.
 - ⚙️ Atuo fortemente com **IaC** (Terraform, Ansible) e construção de pipelines **CI/CD** ágeis.
 - 📊 Experiência prática na implantação de stacks de **Observabilidade** e monitoramento avançado.
-- 🐧 Entusiasta de **Linux** e de ambientes de desenvolvimento customizados e focados em produtividade.
 - 💡 **Missão:** Garantir que os recursos de infraestrutura estejam sempre disponíveis, seguros, em conformidade e otimizados (FinOps).
 
 ---
