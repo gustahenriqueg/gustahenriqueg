@@ -59,16 +59,6 @@
 - ☁️ **Google Cloud Fundamentals: Core Infrastructure**
 - ☁️ **AWS Academy Graduate – Cloud Foundations**
 - ☸️ **Kubernetes Essentials**
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustahenriqueg&show_icons=true&theme=radical&hide_border=true&v=1" alt="Estatísticas do Gustavo" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustahenriqueg&layout=compact&theme=radical&hide_border=true&v=1" alt="Linguagens mais usadas" height="165" />
-</div>
-
 ---
 
 ## 📫 Vamos nos conectar!
